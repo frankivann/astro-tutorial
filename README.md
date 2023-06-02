@@ -1,3 +1,3 @@
-## Astro Blog Tutorial 
+## Astro Blog Tutorial 🚀
 
-[tutorial](https://docs.astro.build/es/tutorial/0-introduction/)
+[Astro Docs Tutorial](https://docs.astro.build/es/tutorial/0-introduction/)
